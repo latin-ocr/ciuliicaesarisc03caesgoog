@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ciuliicaesarisc03caesgoog_0351.png"; bbox 0 0 2310 4154; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 1654 1013 1867">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 203 1654 1013 1867">
+     <span class='ocr_line' id='line_1_1' title="bbox 492 1654 703 1741; baseline -0.005 -17"><span class='ocrx_word' id='word_1_1' title='bbox 492 1654 528 1724; x_wconf 85' lang='lat' dir='ltr'>H</span> <span class='ocrx_word' id='word_1_2' title='bbox 549 1678 570 1722; x_wconf 79' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_3' title='bbox 590 1659 605 1725; x_wconf 92' lang='lat' dir='ltr'>l</span> <span class='ocrx_word' id='word_1_4' title='bbox 629 1657 644 1724; x_wconf 94' lang='grc'>1</span> <span class='ocrx_word' id='word_1_5' title='bbox 666 1678 703 1741; x_wconf 77' lang='lat' dir='ltr'><strong>e,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 203 1744 1013 1867; baseline 0 -35"><span class='ocrx_word' id='word_1_6' title='bbox 203 1744 447 1867; x_wconf 20' lang='lat' dir='ltr'><strong>¹g&#39;etlrnclztxin·5101</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 462 1778 680 1837; x_wconf 77' lang='lat' dir='ltr'>Buchdruckerei</span> <span class='ocrx_word' id='word_1_8' title='bbox 695 1781 744 1833; x_wconf 75' lang='lat' dir='ltr'><strong>des</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 759 1762 1013 1836; x_wconf 50' lang='lat' dir='ltr'><strong>walamnum?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1160 4154">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1160 4154">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1160 4154; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1160 4154; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
